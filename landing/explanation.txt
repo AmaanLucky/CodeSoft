@@ -1,0 +1,5 @@
+I created a website's landing page with the company name "InnovateHub," incorporating a header containing navigation buttons for Home, About, Services, and Contact. The header also includes Log In and Sign Up buttons. The page features a hero section with a captivating background image and a call-to-action button to learn more. The footer displays a copyright notice.
+
+I enhanced user experience by adding hover effects to buttons, changing their colors subtly when hovered over. Additionally, I implemented a toggle button in the top right corner, allowing users to switch between light and dark themes. The toggle button has a sliding animation and updates the color scheme of the entire page, including the header, content, and footer.
+
+This project was completed as part of Task 1 during my internship at CodSoft, where I contributed to web development. The landing page showcases my ability to create responsive and visually appealing designs, incorporate interactivity, and follow design guidelines. This hands-on experience enriched my understanding of front-end development and UI/UX principles, enabling me to contribute effectively to the company's projects.
